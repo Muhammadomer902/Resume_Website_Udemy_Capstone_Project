@@ -6,3 +6,5 @@ This is a Capstone Project#1 of course:- https://www.udemy.com/course/the-comple
 This project is made without any help, from scratch
 
 You can Download the images directly or to save time download "images.zip" and extract files from there.
+
+To visit the live site click:-https://muhammadomer902.github.io/Resume_Website_Udemy_Capstone_Project/
